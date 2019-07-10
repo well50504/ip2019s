@@ -1,0 +1,19 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+
+  <ellipse fill="none" stroke="black" stroke-width=" " cx="150" cy="175" rx="67" ry="44"/>
+  <polygon fill="green" points="120,146 82,177 57,119"/>
+  <polygon fill="green" points="250,116 212,167 187,139"/>
+ <circle fill="#FF4343" stroke=" " stroke-width="5" cx="180" cy="150" r="15"/>
+
+ <circle fill="#FF4343" stroke=" " stroke-width="5" cx="120" cy="150" r="15"/>
+<circle fill="#FF4343" stroke=" " stroke-width="5" cx="150" cy="180" r="5"/>
+
+<path d="M200 200 L210 210" stroke="black"/>
+<path d="M220 180 L230 190" stroke="black"/>
+<path d="M80 180 L70 190" stroke="black"/>
+<path d="M100 200 L70 220" stroke="black"/>
+
+
+
+</svg>
