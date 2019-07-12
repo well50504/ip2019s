@@ -112,7 +112,7 @@ function analyze() {
       console.log('x = ' + x);
       console.log('y = ' + y);
 
-      var circle = image.circle(20).fill('red').stroke('blue').move(x-10, y-10).draggable();
+     // var circle = image.circle(20).fill('red').stroke('blue').move(x-10, y-10).draggable();
 
       /*
       temp.forEach(function(element) {
